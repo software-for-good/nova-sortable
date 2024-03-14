@@ -3,6 +3,8 @@
 You need the vendor/laravel/nova/... folder to be available while compiling.
 Because the mixins that are defined there are used by mix-manifest.json.
 
+We also required Nova 4.23 instead of Nova 4.24. Hope it works.
+
 # Nova Sortable
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/outl1ne/nova-sortable.svg?style=flat-square)](https://packagist.org/packages/outl1ne/nova-sortable)
